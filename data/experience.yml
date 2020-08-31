@@ -1,0 +1,23 @@
+enable  : true
+title   : Experience
+subtitle:
+item    :
+  - icon  : 
+    title : Data Analysts
+    company: Studysid
+    description : >
+     A Java based system to manage payroll of a company. Various features like holiday, half day, overtime etc. were incorporated to provide a complete payroll management performance.
+
+  - icon  : 
+    title : Co-Owner
+    company: Influx Innovation
+    description : >
+      Developed a model using data analytics and machine learning to predict the post-operative situation for a patient. This project uses Gradient boosting method.
+
+  - icon  : 
+    title : Web Developer
+    company: Androiders
+    description : >
+      A complete working website with frontend and backend titled "packers and movers" was developed. It was a complete website with functions to book packers and movers. It stored all the data using a DBMS system.
+
+  

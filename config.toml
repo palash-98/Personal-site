@@ -1,0 +1,109 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Palash Anjania"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "#about"
+weight  = 2
+[[menu.main]]
+name    = ""
+url     = ""
+weight  = 3
+[[menu.main]]
+name    = ""
+url     = ""
+weight  = 4
+[[menu.main]]
+name    = ""
+url     = ""
+weight  = 5
+[[menu.main]]
+name    = ""
+url     = ""
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "HI, MY NAME IS PALASH & I AM A"
+description = "I AM AN AVID LEARNER AND HAVE EXPERIENCE IN WEB DEVELOPMENT, MACHINE LEARNINGA AND DATA ANALYTICS. THIS SITE SHOWCASES SOME OF MY WORK."
+# button
+btn     = true
+btnText = "Download Resume"
+btnURL  = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "AI/ML ENTHUSIAST"
+[[params.banner.flipText]]
+title   = "WEB DEVELOPER"
+[[params.banner.flipText]]
+title   = "HOME COOK"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT ME"
+content = "Hello, I’m a Front End Developer & Machine learning Enthusiast from Mumbai, India. I hold a Bachelors degree in Computer Science from Mumbai University. And plan to get my masters degree from SUNY Buffalo with Machine Learning as my major."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SO WHAT DO YOU THINK ?"
+content = "I would be pleased to offer you my services.<br>This will provide me with an opportunity to learn and develop my skills, which in turn would increase my experience as a programmer"
+btnText = "Contact with me"
+btnURL  = "mailto:anjaniapalash@gmail.com"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Experience"
+subtitle= "I have worked in the roles at various companies. These experiences have allowed me to widen my skillset and developed problem solving skills and leadership quality."
+
+[params.experience]
+enable  = true
+title   = "Experience"
+subtitle= "I have worked in the roles at various companies. These experiences have allowed me to widen my skillset and developed problem solving skills and leadership quality."
+
+[params.skills]
+enable  = true
+title   = "My Skills"
+subtitle= ""
+
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "https://www.facebook.com/palash.anjania"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "https://www.instagram.com/palashanjania/"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "https://www.linkedin.com/in/palash-anjania-149492150/"
+
+[[params.socialIcon]]
+icon = "ion-social-github"
+url = "https://github.com/palash-98"

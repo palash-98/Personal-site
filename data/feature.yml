@@ -1,0 +1,34 @@
+enable  : true
+title   : My Projects
+subtitle: Some of my projects are mentioned below.
+item    :
+  - icon  : ion-ios-medkit-outline
+    title : Prediction of life expectancy post surgery.
+    description : >
+      Developed a model using data analytics and machine learning to predict the post-operative situation for a patient. This project uses Gradient boosting method.
+
+  - icon  : ion-ios-home-outline
+    title : Packers and Movers
+    description : >
+      A complete working website with frontend and backend titled "packers and movers" was developed. It was a complete website with functions to book packers and movers. It stored all the data using a DBMS system.
+
+  - icon  : ion-ios-cloudy-night-outline
+    title : Weather Application
+    description : >
+      A website to predict display weather forecast using NodeJS. The website show weather information of the area entered by the user.
+
+  - icon  : ion-ios-paper-outline
+    title : Indecision-app
+    description : >
+      A ReactJS application to help the user decide what they should do. The purpose of the application is to help user choose a task.
+  
+  - icon  : ion-ios-book-outline
+    title : Automated Essay Grading System
+    description : >
+      A system that grades essays with the help of Natural Language Processing without any human interaction
+  
+  - icon  : ion-ios-people-outline
+    title : Payroll Management System
+    description : >
+      A system that manages payrolls of employees considering halfdays, holidays, leaves and more.
+  

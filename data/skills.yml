@@ -1,0 +1,21 @@
+enable  : true
+title   : My Skills
+subtitle:
+item    :
+  - icon  : 
+    title : Programming Languages
+    description : >
+     C, C++, Java, Python ,android
+  - icon  : 
+    title : Web Development
+    description : >
+      HTML, CSS, Bootstrap, JavaScript, PHP, JQuery, AJAX, Node JS, React JS, DJANGO
+  - icon  : 
+    title : Softwares
+    description : >
+     TurboC, Codeblocks, Anaconda, Jupyter Notebook, PyCharm, MATLAB, AutoCAD, Netbeans 7.2, python IDLE, VMWare, Virtual Box, Cloudera, Virtual Studio Code
+  - icon  : 
+    title : Platforms
+    description : >
+     Windows, Familiar with linux and MacOS   
+  
