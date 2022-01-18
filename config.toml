@@ -45,7 +45,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "HI, MY NAME IS PALASH & I AM A"
-description = "I AM AN AVID LEARNER AND HAVE EXPERIENCE IN WEB DEVELOPMENT, MACHINE LEARNINGA AND DATA ANALYTICS. THIS SITE SHOWCASES SOME OF MY WORK."
+description = "I AM AN AVID LEARNER AND HAVE EXPERIENCE IN WEB DEVELOPMENT, MACHINE LEARNING AND DATA ANALYTICS. THIS SITE SHOWCASES SOME OF MY WORK."
 # button
 btn     = true
 btnText = "Download Resume"
@@ -57,13 +57,13 @@ title   = "AI/ML ENTHUSIAST"
 [[params.banner.flipText]]
 title   = "WEB DEVELOPER"
 [[params.banner.flipText]]
-title   = "HOME COOK"
+title   = "PROBLEM SOLVER"
 
 # Homepage About Section
 [params.about]
 enable  = true
 title   = "ABOUT ME"
-content = "Hello, I’m a Front End Developer & Machine learning Enthusiast from Mumbai, India. I hold a Bachelors degree in Computer Science from Mumbai University. And plan to get my masters degree from SUNY Buffalo with Machine Learning as my major."
+content = "Hello, I’m a Front End Developer & Machine learning Enthusiast from Mumbai, India. I am currently doing MS in Computer Science from University at Buffalo."
 image   = "images/about/about.jpg"
 
 # Call to Action
@@ -72,7 +72,7 @@ enable  = true
 title   = "SO WHAT DO YOU THINK ?"
 content = "I would be pleased to offer you my services.<br>This will provide me with an opportunity to learn and develop my skills, which in turn would increase my experience as a programmer"
 btnText = "Contact with me"
-btnURL  = "mailto:anjaniapalash@gmail.com"
+btnURL  = "mailto:palashpi@buffalo.edu"
 
 # Portfolio Section On Homepage
 [params.portfolio]
