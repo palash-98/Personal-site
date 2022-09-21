@@ -45,7 +45,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "HI, MY NAME IS PALASH & I AM A"
-description = "I AM AN AVID LEARNER AND HAVE EXPERIENCE IN WEB DEVELOPMENT, MACHINE LEARNING AND DATA ANALYTICS. THIS SITE SHOWCASES SOME OF MY WORK."
+description = "I AM AN AVID LEARNER AND HAVE EXPERIENCE IN SOFTWARE DEVELOPMENT, MACHINE LEARNING AND DATA ANALYTICS. THIS SITE SHOWCASES SOME OF MY WORK."
 # button
 btn     = true
 btnText = "Download Resume"
@@ -55,7 +55,7 @@ btnURL  = "https://themefisher.com/"
 [[params.banner.flipText]]
 title   = "AI/ML ENTHUSIAST"
 [[params.banner.flipText]]
-title   = "WEB DEVELOPER"
+title   = "SOFTWARE DEVELOPER"
 [[params.banner.flipText]]
 title   = "PROBLEM SOLVER"
 
