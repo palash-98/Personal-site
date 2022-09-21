@@ -64,7 +64,7 @@ title   = "PROBLEM SOLVER"
 enable  = true
 title   = "ABOUT ME"
 content = "Hello, I’m a Front End Developer & Machine learning Enthusiast from Mumbai, India. I am currently doing MS in Computer Science from University at Buffalo."
-image   = "images/about/about.jpg"
+image   = "images/about/about.jpeg"
 
 # Call to Action
 [params.cta]
@@ -72,7 +72,7 @@ enable  = true
 title   = "SO WHAT DO YOU THINK ?"
 content = "I would be pleased to offer you my services.<br>This will provide me with an opportunity to learn and develop my skills, which in turn would increase my experience as a programmer"
 btnText = "Contact with me"
-btnURL  = "mailto:palashpi@buffalo.edu"
+btnURL  = "mailto:anjaniapalash@gmail.com"
 
 # Portfolio Section On Homepage
 [params.portfolio]
