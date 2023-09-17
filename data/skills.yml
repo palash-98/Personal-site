@@ -3,19 +3,19 @@ title   : My Skills
 subtitle:
 item    :
   - icon  : 
-    title : Programming Languages
+    title : Programming Languages & Libraries
     description : >
-     C, C++, Java, Python ,android
+     Python, C, C++, Java, R, NumPy, Pandas, ELK stack, Sklearn, XGBoost, NLTK, Matplotlib
   - icon  : 
     title : Web Development
     description : >
-      HTML, CSS, Bootstrap, JavaScript, PHP, JQuery, AJAX, Node JS, React JS, DJANGO
+      Angular, HTML, CSS, Bootstrap, PHP, JQuery, AJAX, Node JS, DJANGO, React JS, JavaScript
   - icon  : 
-    title : Softwares
+    title : Database and BI tools
     description : >
-     TurboC, Codeblocks, Anaconda, Jupyter Notebook, PyCharm, MATLAB, AutoCAD, Netbeans 7.2, python IDLE, VMWare, Virtual Box, Cloudera, Virtual Studio Code
+     SQL, MySQL, PostgreSQL, Tableau, Looker
   - icon  : 
-    title : Platforms
+    title : Platforms and Tools
     description : >
-     Windows, Familiar with linux and MacOS   
+      GCP, AWS, Docker, Jupyter, GitHub, MS Excel, Microsoft Office, Google Suite, Slack   
   
