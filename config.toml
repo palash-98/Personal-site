@@ -55,7 +55,7 @@ btnURL  = "https://themefisher.com/"
 [[params.banner.flipText]]
 title   = "AI/ML ENTHUSIAST"
 [[params.banner.flipText]]
-title   = "SOFTWARE DEVELOPER"
+title   = "FULL STACK DEVELOPER"
 [[params.banner.flipText]]
 title   = "PROBLEM SOLVER"
 
@@ -63,7 +63,7 @@ title   = "PROBLEM SOLVER"
 [params.about]
 enable  = true
 title   = "ABOUT ME"
-content = "Hello, I’m a Front End Developer & Machine learning Enthusiast from Mumbai, India. I am currently doing MS in Computer Science from University at Buffalo."
+content = "Hello, I’m a Full Stack Developer & Machine learning Enthusiast. I am a Computer Science graduate from University at Buffalo."
 image   = "images/about/about.jpeg"
 
 # Call to Action
@@ -78,12 +78,12 @@ btnURL  = "mailto:anjaniapalash@gmail.com"
 [params.portfolio]
 enable  = true
 title   = "Experience"
-subtitle= "I have worked in the roles at various companies. These experiences have allowed me to widen my skillset and developed problem solving skills and leadership quality."
+subtitle= "I have a diverse set of abilities with proficiency in Python, ReactJS and Machine Learning. I have excellent problem-solving skills and eagerness to work in a highly collaborative environment with a large team of like-minded people."
 
 [params.experience]
 enable  = true
 title   = "Experience"
-subtitle= "I have worked in the roles at various companies. These experiences have allowed me to widen my skillset and developed problem solving skills and leadership quality."
+subtitle= "I have a diverse set of abilities with proficiency in Python, ReactJS and Machine Learning. I have excellent problem-solving skills and eagerness to work in a highly collaborative environment with a large team of like-minded people."
 
 [params.skills]
 enable  = true
