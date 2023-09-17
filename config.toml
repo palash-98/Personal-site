@@ -45,7 +45,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "HI, MY NAME IS PALASH & I AM A"
-description = "I AM AN AVID LEARNER AND HAVE EXPERIENCE IN SOFTWARE DEVELOPMENT, MACHINE LEARNING AND DATA ANALYTICS. THIS SITE SHOWCASES SOME OF MY WORK."
+description = "I AM AN AVID LEARNER WITH EXPERIENCE IN FULL STACK DEVELOPMENT, MACHINE LEARNING AND DATA ANALYTICS. THIS SITE SHOWCASES SOME OF MY WORK."
 # button
 btn     = true
 btnText = "Download Resume"
